@@ -1,4 +1,4 @@
-##Lists in C programming
+Lists in C programming
 
 Program 1:
 
